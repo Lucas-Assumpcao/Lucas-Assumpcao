@@ -1,4 +1,4 @@
-# Olá! 👋 Sou [seu nome]
+# Olá! 👋 Sou Lucas Assumpção
 
 Estudante de Análise e Desenvolvimento de Sistemas, em transição para a
 área de tecnologia. Venho do setor de logística, onde aprendi disciplina,
