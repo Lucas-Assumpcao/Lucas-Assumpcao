@@ -8,14 +8,12 @@ levo para o desenvolvimento de software.
 ## 🔧 Tecnologias que estou estudando
 - JavaScript
 - Lógica de Programação
-- HTML
-- CSS
-  
+
 ## 📜 Certificações
 - Microsoft AI-900 — Fundamentos de Inteligência Artificial
-- Excel Avançado
-- Technical Support Fundamentals
-- Fundamentos do Power BI
+- Google (Coursera) — Technical Support Fundamentals
+- Fundação Bradesco — Fundamentos do Power BI (37h)
+- Fundação Bradesco — Microsoft Excel 2016 Avançado (30h)
 
 ## 🌐 Idiomas
 - Português — Nativo
@@ -26,4 +24,4 @@ Buscando minha primeira oportunidade como estagiário(a) em
 desenvolvimento de sistemas.
 
 ## 📫 Contato
-LinkedIn: https://www.linkedin.com/in/lucas-assump%C3%A7%C3%A3o-26b1623b5/
+LinkedIn: https://www.linkedin.com/in/lucas-assumpção-26b1623b5/
