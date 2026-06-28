@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! 👋 Sou [seu nome]
 
-<!--
-**Lucas-Assumpcao/Lucas-Assumpcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas, em transição para a
+área de tecnologia. Venho do setor de logística, onde aprendi disciplina,
+organização e resolução de problemas sob pressão — características que
+levo para o desenvolvimento de software.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias que estou estudando
+- JavaScript
+- Lógica de Programação
+- HTML
+- CSS
+  
+## 📜 Certificações
+- Microsoft AI-900 — Fundamentos de Inteligência Artificial
+- Excel Avançado
+- Technical Support Fundamentals
+- Fundamentos do Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Idiomas
+- Português — Nativo
+- Inglês — Intermediário
+
+## 🎯 Objetivo
+Buscando minha primeira oportunidade como estagiário(a) em
+desenvolvimento de sistemas.
+
+## 📫 Contato
+LinkedIn: https://www.linkedin.com/in/lucas-assump%C3%A7%C3%A3o-26b1623b5/
