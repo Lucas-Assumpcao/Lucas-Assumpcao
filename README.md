@@ -19,36 +19,36 @@
 ---
 
 ### 🚀 Sobre mim
-* Estudante de **Análise e Desenvolvimento de Sistemas** no SENAI Barueri[cite: 1].
-* Foco em **desenvolvimento back-end e APIs**, construindo projetos práticos com Node.js, Express, bancos de dados relacionais e NoSQL, autenticação, testes e integrações[cite: 1].
-* Experiência prévia em logística, desenvolvendo forte atuação orientada a prazos, organização, resolução de problemas e comunicação[cite: 1].
-* Buscando oportunidades de **estágio, trainee ou nível júnior** em desenvolvimento[cite: 1].
+* Estudante de **Análise e Desenvolvimento de Sistemas** no SENAI Barueri.
+* Foco em **desenvolvimento back-end e APIs**, construindo projetos práticos com Node.js, Express, bancos de dados relacionais e NoSQL, autenticação, testes e integrações.
+* Experiência prévia em logística, desenvolvendo forte atuação orientada a prazos, organização, resolução de problemas e comunicação.
+* Buscando oportunidades de **estágio, trainee ou nível júnior** em desenvolvimento.
 
 ---
 
 ### 🛠️ Habilidades Técnicas
 
-* **Back-end & APIs:** Node.js, Express, APIs REST, JWT, bcrypt[cite: 1]
-* **Linguagens & Lógica:** JavaScript, Python (fundamentos aplicados a IA)[cite: 1]
-* **Bancos de Dados:** MySQL, SQLite, PostgreSQL, MongoDB[cite: 1]
-* **Ferramentas & DevOps:** Docker, Docker Compose, Postman, Git, GitHub[cite: 1]
-* **Integrações & IA:** n8n, Azure OpenAI, LLMs, RAG, Power BI[cite: 1]
+* **Back-end & APIs:** Node.js, Express, APIs REST, JWT, bcrypt
+* **Linguagens & Lógica:** JavaScript, Python (fundamentos aplicados a IA)
+* **Bancos de Dados:** MySQL, SQLite, PostgreSQL, MongoDB
+* **Ferramentas & DevOps:** Docker, Docker Compose, Postman, Git, GitHub
+* **Integrações & IA:** n8n, Azure OpenAI, LLMs, RAG, Power BI
 
 ---
 
 ### 📌 Principais Projetos
 
 * **[Multiverso Colecionáveis](https://github.com/Lucas-Assumpcao/Multiverso_colecionaveis)** — E-commerce Full-Stack
-  > Loja virtual com API REST em Node.js/Express e front-end em React. Conta com autenticação JWT, senhas com bcrypt, transações atômicas no banco para pedidos/estoque, integração com Mercado Pago (Webhook) e plano de testes documentado[cite: 1].
-  * *Tecnologias:* Node.js • Express • MySQL • React • JWT • Mercado Pago[cite: 1]
+  > Loja virtual com API REST em Node.js/Express e front-end em React. Conta com autenticação JWT, senhas com bcrypt, transações atômicas no banco para pedidos/estoque, integração com Mercado Pago (Webhook) e plano de testes documentado.
+  * *Tecnologias:* Node.js • Express • MySQL • React • JWT • Mercado Pago
 
 * **[ShopCore](https://github.com/Lucas-Assumpcao/ShopCore)** — API de E-commerce
-  > API full-stack com autenticação JWT, banco relacional estruturado e regras de negócio robustas para verificação de estoque e cálculo de transações, consumida por uma interface em React e Tailwind[cite: 1].
-  * *Tecnologias:* Node.js • Express • SQLite • React • JWT[cite: 1]
+  > API full-stack com autenticação JWT, banco relacional estruturado e regras de negócio robustas para verificação de estoque e cálculo de transações, consumida por uma interface em React e Tailwind.
+  * *Tecnologias:* Node.js • Express • SQLite • React • JWT
 
 * **[Atendente IA](https://github.com/Lucas-Assumpcao/N8N--Azure)** — Automação com IA Generativa
-  > Bot de atendimento via Telegram utilizando RAG sobre base de conhecimento, *tool calling* e memória de conversa por usuário, totalmente containerizado com Docker[cite: 1].
-  * *Tecnologias:* n8n • Azure OpenAI • Docker[cite: 1]
+  > Bot de atendimento via Telegram utilizando RAG sobre base de conhecimento, *tool calling* e memória de conversa por usuário, totalmente containerizado com Docker.
+  * *Tecnologias:* n8n • Azure OpenAI • Docker
 
 ---
 
